@@ -8,8 +8,7 @@ This part focuses on the web frontend part helping to communicate with the datab
 
 - Reactjs: [Reactjs](https://reactjs.org/)
 - Redux: [@Node.js](https://redux.js.org/)
-- Css: [@Node.js](https://www.w3schools.com/css/)
-
+- Css: [CSS3](https://www.w3schools.com/css/)
 
 
 ## How to run
